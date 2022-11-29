@@ -2,7 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=surally&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
+<div align="center">
 ![snake gif](https://github.com/surally/surally/blob/output/github-contribution-grid-snake.gif)
+</div>
 <!--
 **surally/surally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
