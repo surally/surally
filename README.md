@@ -4,9 +4,9 @@
 
 # 💫 About Me:
 
-- I'm currently learning "Discord.py".
+-🌱 I'm currently learning "Discord.py".
 
-- Fun fact **play games, watch anime**
+-⚡ Fun fact **play games, watch anime**
 
 # 📊 GitHub Stats:
 <div align="center">
