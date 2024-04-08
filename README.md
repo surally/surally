@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=surally&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
 </p>
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 
 -⚡ Fun fact **play games, watch anime**
 
@@ -30,4 +30,4 @@
   <a href="https://www.youtube.com/channel/UCWFUgLjluzysf0vJ0cfw8SA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/surally" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
  
-</div>
+</div> -->
