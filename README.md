@@ -11,4 +11,4 @@
   <img alt="Langs" height="160px" src="https://github-readme-stats-ruddy-iota-80.vercel.app/api/top-langs/?username=surally&layout=compact&show_icons=true&theme=vue-dark" />
 </p>
 
-![](https://raw.githubusercontent.com/surally/surally/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/surally/surally/output/github-contribution-grid-snake-dark.svg)
